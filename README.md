@@ -8,33 +8,10 @@ Check out my other skills below 👇
 
 ## Languages
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" height="30px" title="JavaScript" alt="JavaScript Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" height="30px" title="PHP" alt="PHP Logo"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
 
 ## Technologies and tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30px" height="30px" title="Laravel" alt="Laravel Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px" height="30px" title="Docker" alt="Docker Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30px" height="30px" title="TailwindCSS" alt="Tailwind Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" height="30px" title="Git" alt="Git Logo"/>
-<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
-<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="30px" height="30px" title="GitHub" alt="GitHub Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" height="30px" title="HTML" alt="HTML5 Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" height="30px" title="CSS" alt="CSS3 Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px" height="30px" title="SASS" alt="SASS Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30px" height="30px" title="npm" alt="Node Package Manager Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" height="30px" title="VS Code" alt="Visual Studio Code Logo"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" height="30px" title="PostgreSQL" alt="PostgreSQL Logo"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" height="30px" title="MySQL" alt="MySQL Logo"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,tailwind,git,html,css,sass,npm,vscode,bash,cloudflare,ubuntu,postman)](https://skillicons.dev)
 
 ---
 
