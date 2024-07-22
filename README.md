@@ -1,8 +1,8 @@
-#### Hey there, I'm Iago! 👋
-I'm 27 years old and currently live in Ceará, Brazil. :brazil:  
-I've been passionate about programming more than 8 years and I learned everything I know by my self, driven by the curiosity to know how the web works.
+#### Hey there, I'm Ismael!👋
+I am 21 years old and live in Ceará, Brazil. :brazil: 
 
-JavaScript is the language I'm most confident to work with (both on client and server side) and currently I'm studying PHP with Laravel to expand my knowledge.
+My specialty is working with PHP and the Laravel framework, where I can transform complex ideas into practical and efficient solutions. <br>
+With a strong foundation in software development, I am always looking for new challenges and opportunities to improve my skills.
 
 Check out my other skills below 👇
 
@@ -35,19 +35,6 @@ Check out my other skills below 👇
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" height="30px" title="PostgreSQL" alt="PostgreSQL Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" height="30px" title="MySQL" alt="MySQL Logo"/>
 </p>
-
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoutzx&hide=html&langs_count=6&layout=compact&theme=dark">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=khoutzx&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=dark">
-    </td>
-  </tr>
-</table>
 
 ---
 
