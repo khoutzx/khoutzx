@@ -11,7 +11,7 @@ Check out my other skills below 👇
 [![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
 
 ## Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,tailwind,git,html,css,sass,npm,vscode,bash,cloudflare,ubuntu,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,vue,docker,tailwind,git,html,css,sass,npm,vscode,bash,cloudflare,ubuntu,postman)](https://skillicons.dev)
 
 ---
 
