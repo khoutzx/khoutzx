@@ -1,5 +1,5 @@
 #### Hey there, I'm Ismael!👋
-I am 21 years old and live in Ceará, Brazil. :brazil: 
+I am 21 years old and live in Balneário Camboriu, SC - Brazil. :brazil: 
 
 My specialty is working with PHP and the Laravel framework, where I can transform complex ideas into practical and efficient solutions. <br>
 With a strong foundation in software development, I am always looking for new challenges and opportunities to improve my skills.
