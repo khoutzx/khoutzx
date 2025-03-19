@@ -1,17 +1,31 @@
 #### Hey there, I'm Ismael!👋
-I am 21 years old and live in Balneário Camboriu, SC - Brazil. :brazil: 
 
-My specialty is working with PHP and the Laravel framework, where I can transform complex ideas into practical and efficient solutions. <br>
-With a strong foundation in software development, I am always looking for new challenges and opportunities to improve my skills.
+I am a Full Cycle/Full Stack Developer from Balneário Camboriú, SC - Brazil. :brazil:
+
+I specialize in transforming complex problems into simple and scalable solutions, covering the entire development cycle—from architecture and coding to deployment and optimization. My expertise spans backend, frontend, and mobile development, leveraging the best technologies to build high-performance applications.
+
+Develop mobile apps with React Native, ensuring seamless integration across platforms. Constantly evolving, I'm always looking for new challenges to push my skills further.
 
 Check out my other skills below 👇
 
-## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=php,js)](https://skillicons.dev)
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts)](https://skillicons.dev)
 
-## Technologies and tools
-[![My Skills](https://skillicons.dev/icons?i=laravel,vue,docker,tailwind,git,html,css,sass,npm,vscode,bash,cloudflare,ubuntu,postman)](https://skillicons.dev)
+## Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=laravel,nestjs,react,vue,sequelize)](https://skillicons.dev)
+
+
+## Backend & DevOps
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nginx,docker,cloudflare)](https://skillicons.dev)
+
+
+## Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vite)](https://skillicons.dev)
+
+
+## Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,postman,linux,ubuntu,bash)](https://skillicons.dev)
 
 ---
 
