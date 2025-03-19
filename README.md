@@ -1,6 +1,6 @@
 #### Hey there, I'm Ismael!👋
 
-I am a Full Cycle/Full Stack Developer from Balneário Camboriú, SC - Brazil. :brazil:
+I am a Full Cycle Developer from Balneário Camboriú, SC - Brazil. :brazil:
 
 I specialize in transforming complex problems into simple and scalable solutions, covering the entire development cycle—from architecture and coding to deployment and optimization. My expertise spans backend, frontend, and mobile development, leveraging the best technologies to build high-performance applications.
 
